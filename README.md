@@ -68,8 +68,11 @@ A valuable course teaching problem-solving methods applied at Stanford Universit
 ### Image Processing and Raspberry Pi
 
 Applied image processing using Raspberry Pi for tasks like obstacle avoidance and designing a home smart alarm system.
+<div align="center">
+  <img src="Images/9.png" alt="Image Processingg" width="600"/>
+</div>
 
-- Image Processing: ![Link to Image Processing](images/image_processing.png)
+
 
 ### Designing a Hydroponic System
 
