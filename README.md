@@ -38,7 +38,6 @@ In the dynamic course, we undertook a projectile motion project where we had to 
 4. **Flying Robot**: Designed a flying robot controlled online via a Bluetooth module.
 <div align="center">
   <img src="Images/7.png" alt="flying robot mechanism" width="400"/>
-  
 </div>
 5. **Steering System**: Constructed a mobile robot with a steering system using a four-bar mechanism.
 - steering system project: ![steering system project](Images/5.png)
