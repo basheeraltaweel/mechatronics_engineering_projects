@@ -19,8 +19,8 @@ As a beginner student, my group and I created a bridge structure to carry more t
 
 In the dynamic course, we undertook a projectile motion project where we had to prove hitting a specified target using theoretical calculations. The project involved the use of aerodynamic elements such as springs, nails, and aluminum.
 <div align="center">
-  <img src="Images/plc_program.png" alt="PLC Program" width="400"/>
-  <img src="Images/arduino_program.png" alt="Arduino Program" width="400"/>
+  <img src="Images/3.png" alt="PLC Program" width="400"/>
+  <img src="Images/4.png" alt="Arduino Program" width="400"/>
 </div>
 
 *Note: This project was based on a dynamic university course.*
