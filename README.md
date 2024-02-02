@@ -18,6 +18,8 @@ As a beginner student, my group and I created a bridge structure to carry more t
 ### Projectile Motion Project
 
 In the dynamic course, we undertook a projectile motion project where we had to prove hitting a specified target using theoretical calculations. The project involved the use of aerodynamic elements such as springs, nails, and aluminum.
+- SOLIDWORKS Design: ![SOLIDWORKS Design](Images/3.png)
+- Project Implementation: ![Project Implementation](Images/4.png)
 
 *Note: This project was based on a dynamic university course.*
 
