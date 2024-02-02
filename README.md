@@ -34,7 +34,10 @@ In the dynamic course, we undertook a projectile motion project where we had to 
 1. **Reading and Measuring Displacement**: Reading and measuring linear and angular displacement from a potentiometer, displaying readings on the Arduino serial port with small accuracy and precision.
 
 2. **Automobile Obstacle Avoidance**: Investigated sensing properties using sensors like temperature, ultrasonic, LDR, and Bluetooth module for an adjustable automobile obstacle avoidance system.
+<div align="center">
+  <img src="Images/6.png" alt="Project Scheme" width="500"/>
 
+</div>
 3. **Garage Automatic Gate**: Constructed an automatic gate using sensing properties to open automatically when an object approached.
 
 4. **Flying Robot**: Designed a flying robot controlled online via a Bluetooth module.
