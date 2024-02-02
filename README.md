@@ -8,9 +8,11 @@ This repository contains the projects I worked on during my bachelor's degree in
 
 As a beginner student, my group and I created a bridge structure to carry more than 20 kilograms. The project aimed to elevate the load from the middle of the bridge. We successfully constructed the project and tested its load-bearing capacity, eventually winning the first-class award in mechatronics engineering.
 
-- Project Scheme: ![Link to Project Scheme](Images/1.png)
-- Group Work: ![Link to Group Work](Images/2.png)
 
+<div align="center">
+  <img src="Images/1.png" alt="Project Scheme" width="500"/>
+  <img src="Images/2.png" alt="roup Work" width="500"/>
+</div>
 *Note: This project was based on a static university course.*
 
 ## Second Year
