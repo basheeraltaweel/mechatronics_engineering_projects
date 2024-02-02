@@ -109,5 +109,5 @@ Designed a 6DoF serial robot manipulator for industrial purposes, using NEMA 17 
 ## Contact Information
 
 
-- **Email:** basheeraltaweel@gmail.com
+- **Email:** aibomechatronics@gmail.com
 
