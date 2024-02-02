@@ -90,14 +90,18 @@ Designed an attachable and detachable reconfigurable serial robot manipulator fo
 ### Designing CNC Machine
 
 Designed a CNC machine for various industrial operations like welding, drawing, and laser cutting, saving costs compared to market alternatives.
+<div align="center">
+  <img src="Images/11.png" alt=" CNC Machine" width="600"/>
+</div>
 
-- CNC Machine: ![Link to CNC Machine](images/cnc_machine.png)
 
 ### Designing 6DoF Serial Robot Manipulator
 
 Designed a 6DoF serial robot manipulator for industrial purposes, using NEMA 17 servo motors.
+<div align="center">
+  <img src="Images/12.png" alt=" 6DoF Robot Manipulator" width="600"/>
+</div>
 
-- 6DoF Robot Manipulator: ![Link to 6DoF Robot Manipulator](images/6dof_robot_manipulator.png)
 
 ## Contact Information
 
