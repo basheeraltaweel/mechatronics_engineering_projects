@@ -38,6 +38,7 @@ In the dynamic course, we undertook a projectile motion project where we had to 
   <img src="Images/6.png" alt="Project Scheme" width="500"/>
 
 </div>
+
 3. **Garage Automatic Gate**: Constructed an automatic gate using sensing properties to open automatically when an object approached.
 
 4. **Flying Robot**: Designed a flying robot controlled online via a Bluetooth module.
