@@ -56,10 +56,10 @@ In the dynamic course, we undertook a projectile motion project where we had to 
 **Industrial Automation Course**
 
 Modified AC motor controlling using analog and digital sensors to control motor speed based on task requirements. Used Arduino microcontroller and Python interface for real-time monitoring.
+<div align="center">
+  <img src="Images/8.png" alt="AC motor controlling" width="600"/>
+</div>
 
-- PLC Program: ![Link to PLC Program](images/plc_program.png)
-- Arduino Program: ![Link to Arduino Program](images/arduino_program.png)
-- AC Motor Controlling: ![Link to AC Motor Controlling](images/ac_motor_controlling.png)
 
 ### Engineering Design and Problem Solving
 
