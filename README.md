@@ -1,6 +1,6 @@
 # Mechatronics Engineering Bachelor's Degree Projects
 
-This repository contains the projects I worked on during my bachelor's degree in Mechatronics Engineering at İzmir Katip Celebi University. The projects are organized by academic year.
+This repository contains the projects I worked on during my bachelor's degree in Mechatronics Engineering .
 
 ## First Year
 
