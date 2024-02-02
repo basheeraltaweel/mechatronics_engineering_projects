@@ -81,8 +81,11 @@ Designed parameters for a hydroponic plant system, incorporating light control a
 ### Graduation Project: Modifying a SCARA Robot Manipulator
 
 Designed an attachable and detachable reconfigurable serial robot manipulator for industrial, medical, manufacturing, and planting applications.
+<div align="center">
+  <img src="Images/10.png" alt=" Robot Compact Shape" width="600"/>
+</div>
 
-- Robot Compact Shape: ![Link to Robot Compact Shape](images/robot_compact_shape.png)
+
 
 ### Designing CNC Machine
 
