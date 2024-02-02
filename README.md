@@ -39,8 +39,11 @@ In the dynamic course, we undertook a projectile motion project where we had to 
 <div align="center">
   <img src="Images/7.png" alt="flying robot mechanism" width="400"/>
 </div>
+
 5. **Steering System**: Constructed a mobile robot with a steering system using a four-bar mechanism.
-- steering system project: ![steering system project](Images/5.png)
+<div align="center">
+  <img src="Images/5.png" alt="steering system project" width="400"/>
+</div>
 
 *Note: These projects were based on sensor and systems, theory of machine, mechatronic system design, machine elements, and electrical machines university courses.*
 
