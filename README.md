@@ -83,8 +83,6 @@ Designed a 6DoF serial robot manipulator for industrial purposes, using NEMA 17 
 
 ## Contact Information
 
-- **Name:** Basheer Altawil
-- **University:** İzmir Katip Celebi University
+
 - **Email:** basheeraltaweel@gmail.com
-- **Phone:** +905386452285
-- **Department:** Mechatronics Engineering
+
